@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.stratium.xyz.ico",
     "slug": "stratium-staking",
     "status": "up",
-    "uptime": "75.74%",
+    "uptime": "76.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.21%",
-    "uptimeYear": "75.74%",
-    "time": 187,
-    "timeDay": 49,
-    "timeWeek": 413,
-    "timeMonth": 196,
-    "timeYear": 187,
+    "uptimeMonth": "63.54%",
+    "uptimeYear": "76.06%",
+    "time": 188,
+    "timeDay": 278,
+    "timeWeek": 145,
+    "timeMonth": 202,
+    "timeYear": 188,
     "dailyMinutesDown": {
+      "2026-03-09": 3,
+      "2026-04-10": 53,
       "2026-05-06": 284,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -35,9 +37,7 @@
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
-      "2026-04-17": 235,
-      "2026-04-10": 53,
-      "2026-03-09": 3
+      "2026-04-17": 235
     }
   },
   {
